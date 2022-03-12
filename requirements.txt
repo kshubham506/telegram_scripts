@@ -1,0 +1,2 @@
+git+git://github.com/kshubham506/Telethon
+pandas
