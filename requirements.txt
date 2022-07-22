@@ -1,2 +1,2 @@
-git+git://github.com/kshubham506/Telethon
+git+https://github.com/kshubham506/Telethon
 pandas
